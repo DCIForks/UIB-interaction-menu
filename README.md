@@ -1,5 +1,7 @@
 # Dropdown Menu
 
+See the [interactive demo](https://dciforks.github.io/UIB-interaction-menu/).
+
 **Instructions**
 1. Create a navigation bar at the top of the page with three items:
   * About
